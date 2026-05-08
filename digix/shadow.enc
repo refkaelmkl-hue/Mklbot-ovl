@@ -1,6 +1,0 @@
-import { encryptOwners } from './utils/DigixCreator.js';
-
-await encryptOwners([
-  "23691890505",
-  "237691890505"
-]);
