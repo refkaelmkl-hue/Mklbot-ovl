@@ -1,4 +1,4 @@
-import connectToWhatsapp from './Digix/crew.js'
+import connectToWhatsapp from './Hub/mkl.js'
 import handleIncomingMessage from './events/messageHandler.js'
 
 (async() => {
